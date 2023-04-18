@@ -1,0 +1,17 @@
+title: Roxas Voice Restoration
+originalAuthor: Truthful Sentiment
+game: kh2
+description: Restores all of Roxas' battle quotes from the original PS2 releases that were replaced in the 2.5 remasters.
+assets:
+- name: voice/us/battle/tt0_roxas.win32.scd
+  method: copy
+  source:
+  - name: voice/us/battle/tt0_roxas.win32.scd
+- name: voice/us/battle/n_roxas.win32.scd
+  method: copy
+  source:
+  - name: voice/us/battle/n_roxas.win32.scd
+- name: remastered/obj/B_EX390.a.us/voice/battle/us/n_roxas
+  method: copy
+  source:
+  - name: remastered/obj/B_EX390.a.us/voice/battle/us/n_roxas
